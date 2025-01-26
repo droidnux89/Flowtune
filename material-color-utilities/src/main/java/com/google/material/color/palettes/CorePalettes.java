@@ -29,9 +29,7 @@ public final class CorePalettes {
     public TonalPalette neutral;
     public TonalPalette neutralVariant;
 
-    /**
-     * Creates a new CorePalettes.
-     */
+
     public CorePalettes(
             TonalPalette primary,
             TonalPalette secondary,
